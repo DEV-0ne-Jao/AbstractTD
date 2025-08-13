@@ -1,0 +1,1 @@
+colidindoCurva = other.idCurva;
