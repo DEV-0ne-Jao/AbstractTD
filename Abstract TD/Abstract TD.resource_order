@@ -30,6 +30,7 @@
     {"name":"spr_default2","order":1,"path":"sprites/spr_default2/spr_default2.yy",},
     {"name":"spr_default3","order":2,"path":"sprites/spr_default3/spr_default3.yy",},
     {"name":"spr_default4","order":3,"path":"sprites/spr_default4/spr_default4.yy",},
+    {"name":"spr_default5","order":4,"path":"sprites/spr_default5/spr_default5.yy",},
     {"name":"spr_pedrinhas_2","order":1,"path":"sprites/spr_pedrinhas_2/spr_pedrinhas_2.yy",},
     {"name":"spr_pedrinhas_3","order":2,"path":"sprites/spr_pedrinhas_3/spr_pedrinhas_3.yy",},
     {"name":"spr_pedrinhas_4","order":3,"path":"sprites/spr_pedrinhas_4/spr_pedrinhas_4.yy",},

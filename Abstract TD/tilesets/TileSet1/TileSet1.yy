@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_default",
-    "path":"sprites/spr_default/spr_default.yy",
+    "name":"spr_default1",
+    "path":"sprites/spr_default1/spr_default1.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
